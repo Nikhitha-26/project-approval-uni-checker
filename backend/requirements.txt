@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+sentence-transformers
+scikit-learn
+python-dotenv
+=======
+List required Python packages for this project:
+
+fastapi
+
+uvicorn
+
+sqlalchemy
+
+psycopg2-binary
+
+pydantic
+
+sentence-transformers
+
+scikit-learn
+
+python-dotenv
+
+>>>>>>> 57628cc5e168220f7e97bca5fd1d51aecfa1456a
+requests
