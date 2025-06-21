@@ -1,0 +1,19 @@
+List required Python packages for this project:
+
+fastapi
+
+uvicorn
+
+sqlalchemy
+
+psycopg2-binary
+
+pydantic
+
+sentence-transformers
+
+scikit-learn
+
+python-dotenv
+
+requests
